@@ -1,2 +1,2 @@
 # sum-mesh
-Spring
+ServiceMesh solution based on Spring Cloud
